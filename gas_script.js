@@ -1,5 +1,5 @@
 
-const SPREADSHEET_ID = '1cm-v8T3tJQ3niMRWgS53wax7W6YanR7WKWaOBkzrpNc'; // ← ใส่ ID ของ Google Sheets ที่นี่
+const SPREADSHEET_ID = '1wKOHy-VIpis4uX8suJsFj3WWh-FPsmA81vKFQm8_Yvk'; // ← ใส่ ID ของ Google Sheets ที่นี่
 const STUDENT_SHEET_NAME = 'ข้อมูลนักเรียน';
 const RESULT_SHEET_NAME = 'ผลการตรวจ';
 
