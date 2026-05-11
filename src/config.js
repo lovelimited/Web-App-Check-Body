@@ -1,6 +1,6 @@
 // ─── GAS Backend URL ────────────────────────────────────────
 // ใส่ URL จาก Google Apps Script Deploy
-export const GAS_URL = 'https://script.google.com/macros/s/AKfycbzd0j_SBPJiVMxu7pjv-84Bd2Jpqh7wasyQzv3QPo4FNGCmqtcBJ3bjs82YxSFu0LEgHA/exec';
+export const GAS_URL = 'https://script.google.com/macros/s/AKfycbyvIjpCo7Jgo2Fm3yCgc7ibsaNRvr-0_bXLWhpfF4NO8MXYEstBAx1dzl2SRisa27he/exec';
 
 export const ALL_CLASSES = ['ม.1', 'ม.2', 'ม.3', 'ม.4', 'ม.5', 'ม.6'];
 
